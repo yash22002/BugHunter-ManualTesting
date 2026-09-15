@@ -65,6 +65,7 @@ Each test case contains the following details:
 BugHunter-ManualTesting/
 │
 └── screenshots/
-    └── login-test-cases.png
+    └── Image 1
+    └── Image 2
 ├── Login-Test-Cases.xlsx
 ├── README.md

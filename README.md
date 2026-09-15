@@ -64,7 +64,7 @@ Each test case contains the following details:
 ```text
 BugHunter-ManualTesting/
 │
-├── Login-Test-Cases.xlsx
-├── README.md
 └── screenshots/
     └── login-test-cases.png
+├── Login-Test-Cases.xlsx
+├── README.md

@@ -12,12 +12,9 @@ This repository contains manually designed test cases created to practice softwa
 
 The test cases focus on checking application functionality, input validation, user behavior, and possible negative scenarios.
 
-## 📂 Module Covered
-
-### Login Page
-
+📂 Module Covered
+Login Page
 The Login Page test cases cover:
-
 - Valid username and password
 - Invalid username and password
 - Blank username field
@@ -29,7 +26,18 @@ The Login Page test cases cover:
 - Username length above the maximum limit
 - Password visibility functionality
 - Login button functionality
-
+  
+Signup Page
+The Signup Page test cases cover:
+- Valid user registration
+- Invalid email validation
+- Already registered email validation
+- Blank mandatory fields validation
+- Password and confirm password mismatch
+- Minimum password length validation
+- Password length below the minimum limit
+- Password visibility functionality
+- Signup button functionality
 ## 🧪 Testing Types Covered
 
 - Positive Testing
